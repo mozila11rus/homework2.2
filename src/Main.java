@@ -15,7 +15,6 @@ public class Main {
             e.printStackTrace();
         }
     }
-
     private String[][] stringToArray (String string) {
         int count = 0;
         String[][] str = new String[4][4];
